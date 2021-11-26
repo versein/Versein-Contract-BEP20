@@ -8,7 +8,7 @@ interface IERC20 {
     function transfer(address _to, uint256 _amount) external returns (bool);
 }   
 
-contract JiccoTech {
+contract Versein {
     string public constant _name = "Verse In";
     string public constant _symbol = "VRSN";
     uint8 public constant _decimals = 10;
